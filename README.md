@@ -17,7 +17,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jey1622&show_icons=true&locale=en&layout=compact" alt="jey1622" /></p>
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jey1622&layout=compact)](https://github.com/Jey1622/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jey1622&show_icons=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jey1622&" alt="jey1622" /></p>
 
