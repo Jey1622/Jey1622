@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jey1622&label=Profile%20views&color=0e75b6&style=flat" alt="jey1622" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **jeyaramanapr22@gmail.com**
 
